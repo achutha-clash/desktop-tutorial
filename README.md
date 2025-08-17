@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
+A simple and lightweight content generator built using HTML, CSS, and JavaScript.
+This tool allows users to quickly generate placeholder (dummy) text for use in UI/UX mockups, website templates, or testing layouts.
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
